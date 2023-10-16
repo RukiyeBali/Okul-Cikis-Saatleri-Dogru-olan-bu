@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\bin\Debug\Okul-çıkis-saatleri.exe.config
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\bin\Debug\Okul-çıkis-saatleri.exe
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\bin\Debug\Okul-çıkis-saatleri.pdb
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul_çıkis_saatleri.Form1.resources
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul_çıkis_saatleri.Properties.Resources.resources
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.exe
+C:\Users\User\Desktop\elif\Okul-çıkis-saatleri\Okul-çıkis-saatleri\obj\Debug\Okul-çıkis-saatleri.pdb
